@@ -1,7 +1,6 @@
 export default {
   cart: [],
-<<<<<<< HEAD
-=======
+
   productos: [
     {
       id: "1",
@@ -69,5 +68,4 @@ export default {
       cantidad: 0,
     },
   ],
->>>>>>> cd1a127 (finale)
 };
