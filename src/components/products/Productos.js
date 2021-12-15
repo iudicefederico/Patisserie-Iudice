@@ -1,6 +1,5 @@
 export default {
   cart: [],
-
   productos: [
     {
       id: "1",
