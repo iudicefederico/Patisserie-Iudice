@@ -13,7 +13,7 @@ export default function CartWidget() {
 
   return (
     <div className="icon">
-      VER CARRITO  
+      VER CARRITO
       <FontAwesomeIcon icon={faShoppingCart} />
       {cart.length > 0 ? <div>{sum}</div> : <div></div>}
     </div>

@@ -64,7 +64,7 @@ export default {
       category: "cookies",
       price: 80,
       stock: 20,
-      img: "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/10/28/0/FNK_The-Best-M-and-M-Cookies_H1_s4x3.jpg.rend.hgtvcom.616.462.suffix/1572274438503.jpeg",
+      img: "https://static4.todobonito.com/m/2013/08/5.jpg",
       cantidad: 0,
     },
   ],
